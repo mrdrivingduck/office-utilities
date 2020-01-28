@@ -1,4 +1,5 @@
 # office-utilities
+
 ⚙️ Tools for automatic jobs with MS Office.
 
 Created by : Mr Dk.
@@ -31,6 +32,10 @@ Remove the password of a `.xls` / `.xlsx` file or files in a directory, in one o
 3. A specific range of password with __legal characters__ and __key length__
 
 ### MORE TO BE DEVELOPED... 😁
+
+## License
+
+Copyright © 2019-2020, Jingtang Zhang. ([MIT License](LICENSE))
 
 ---
 
